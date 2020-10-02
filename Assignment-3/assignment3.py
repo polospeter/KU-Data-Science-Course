@@ -1,6 +1,5 @@
 
 import numpy as np
-#from sklearn.neighbors import sklearn.decomposition.PCA
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
     
