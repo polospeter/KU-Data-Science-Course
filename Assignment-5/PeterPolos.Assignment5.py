@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 10 10:08:07 2019
-
-@author: Peter
-"""
 
 # Exam - Final assignment
 
