@@ -3,8 +3,8 @@ import numpy as np
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
     
-# Exercise 1 ------------------------------------------------------------------------------------------------------    
-#---------IMPORT DATA--------------------------------------------------------------------------
+# Exercise 1 -------------------------------------------------------------------------------------------------   
+#---------IMPORT DATA-----------------------------------------------------------------------------------------
 murder=np.loadtxt('murderdata2d.txt')
 
 test_data=np.loadtxt('IDSWeedCropTest.csv',delimiter=',')
@@ -128,9 +128,9 @@ plt.title('Projected data with built in PCA')
 # which is not surprising since in the previous exercise I have pointed out, that my eigenvectors point to the opposite direction
 # compared to the ones produced by the built in PCA function
 
-# EXERCISE 3 -----------------------------------------------------------------------------
+# EXERCISE 3 -------------------------------------------------------------------------------------
 
-#---------IMPORT DATA--------------------------------------------------------------------------
+#---------IMPORT DATA-----------------------------------------------------------------------------
 test_data=np.loadtxt('IDSWeedCropTest.csv',delimiter=',')
 train_data=np.loadtxt('IDSWeedCropTrain.csv',delimiter=',')
 
