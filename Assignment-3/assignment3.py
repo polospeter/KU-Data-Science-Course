@@ -124,9 +124,9 @@ plt.scatter(X_projec[:, 0], X_projec[:, 1], alpha=0.3)
 plt.xlabel('Principal component 1')
 plt.ylabel('Principal component 2')
 plt.title('Projected data with built in PCA')
-# as we can see my implementation is results in the inverse of the image we got with the built in PCA,
+# as we can see my implementation results in the inverse of the image we got with the built in PCA,
 # which is not surprising since in the previous exercise I have pointed out, that my eigenvectors point to the opposite direction
-# compared to the ones in the built in PCA
+# compared to the ones produced by the built in PCA function
 
 # EXERCISE 3 -----------------------------------------------------------------------------
 
@@ -144,7 +144,7 @@ y_test=test_data[:,-1]
 from sklearn.metrics import pairwise_distances_argmin
 
 def findclusters(X, n_clusters):
-    #initial centers with the first two data points
+    #initialize centers with the first two data points
     centers = X[0:n_clusters]
  
     while True:
