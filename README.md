@@ -7,5 +7,5 @@ This course covered the following tentative topic list:
 - Classification methods, such as Linear models, K-Nearest Neighbor.
 - Regression methods, such as Linear, Logistic regression.
 - Bayesian Statistics
-Clustering.
-Dimensionality reduction and visualisation techniques such as principal component analysis (PCA).
+- Clustering.
+- Dimensionality reduction and visualisation techniques such as principal component analysis (PCA).
