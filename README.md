@@ -1,9 +1,9 @@
 # KU-Data-Science-Course
 This repository contains all my solutions for the Data Science course at KU.
 
-This course covers the following tentative topic list:
+This course covered the following tentative topic list:
 
-Foundations of statistical learning, probability theory.
+- Foundations of statistical learning, probability theory.
 Classification methods, such as Linear models, K-Nearest Neighbor.
 Regression methods, such as Linear regression.
 Bayesian Statistics
