@@ -22,7 +22,7 @@ This course covered the following topic list:
 
 - [Assignment 3](https://github.com/polospeter/KU-Data-Science-Course/tree/main/Assignment-3)
 
-#### Assignment 4:
+#### Assignment 4: PCA, Projection and visualisation of data points
 
 - [Assignment 4](https://github.com/polospeter/KU-Data-Science-Course/tree/main/Assignment-4)
 
