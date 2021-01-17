@@ -14,7 +14,7 @@ This course covered the following topic list:
 
 - [Assignment 1](https://github.com/polospeter/KU-Data-Science-Course/blob/main/Assignment-1/Assignment1)
 
-#### Assignment 2:
+#### Assignment 2: K-NN, Normalization
 
 - [Assignment 2](https://github.com/polospeter/KU-Data-Science-Course/tree/main/Assignment-2)
 
@@ -22,10 +22,10 @@ This course covered the following topic list:
 
 - [Assignment 3](https://github.com/polospeter/KU-Data-Science-Course/tree/main/Assignment-3)
 
-#### Assignment 4: Gibbs sampling
+#### Assignment 4:
 
 - [Assignment 4](https://github.com/polospeter/KU-Data-Science-Course/tree/main/Assignment-4)
 
-#### Assignment 5: Gibbs sampling
+#### Assignment 5:
 
 - [Assignment 5](https://github.com/polospeter/KU-Data-Science-Course/tree/main/Assignment-5)
