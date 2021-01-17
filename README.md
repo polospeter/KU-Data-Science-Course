@@ -26,6 +26,6 @@ This course covered the following topic list:
 
 - [Assignment 4](https://github.com/polospeter/KU-Data-Science-Course/tree/main/Assignment-4)
 
-#### Assignment 5:
+#### Final Assignment: Linear Regression, Logistic Regression, Decision trees, Random forest, Gradient descent, Image recognition etc.
 
 - [Assignment 5](https://github.com/polospeter/KU-Data-Science-Course/tree/main/Assignment-5)
