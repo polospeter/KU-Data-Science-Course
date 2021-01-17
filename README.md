@@ -18,7 +18,7 @@ This course covered the following topic list:
 
 - [Assignment 2](https://github.com/polospeter/KU-Data-Science-Course/tree/main/Assignment-2)
 
-#### Assignment 3: EM-algorithm
+#### Assignment 3: PCA, K-means
 
 - [Assignment 3](https://github.com/polospeter/KU-Data-Science-Course/tree/main/Assignment-3)
 
