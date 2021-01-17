@@ -9,3 +9,23 @@ This course covered the following topic list:
 - Bayesian Statistics
 - Clustering.
 - Dimensionality reduction and visualisation techniques such as principal component analysis (PCA).
+
+#### Assignment 1: Density estimation
+
+- [Assignment 1](https://github.com/polospeter/KU-Computational-Statistics-course/tree/main/Assignment%201)
+
+#### Assignment 2:
+
+- [Assignment 2]()
+
+#### Assignment 3: EM-algorithm
+
+- [Assignment 3]()
+
+#### Assignment 4: Gibbs sampling
+
+- [Assignment 4]()
+
+#### Assignment 5: Gibbs sampling
+
+- [Assignment 4]()
