@@ -20,12 +20,12 @@ This course covered the following topic list:
 
 #### Assignment 3: EM-algorithm
 
-- [Assignment 3]()
+- [Assignment 3](https://github.com/polospeter/KU-Data-Science-Course/tree/main/Assignment-3)
 
 #### Assignment 4: Gibbs sampling
 
-- [Assignment 4]()
+- [Assignment 4](https://github.com/polospeter/KU-Data-Science-Course/tree/main/Assignment-4)
 
 #### Assignment 5: Gibbs sampling
 
-- [Assignment 4]()
+- [Assignment 5](https://github.com/polospeter/KU-Data-Science-Course/tree/main/Assignment-5)
