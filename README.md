@@ -10,9 +10,9 @@ This course covered the following topic list:
 - Clustering.
 - Dimensionality reduction and visualisation techniques such as principal component analysis (PCA).
 
-#### Assignment 1: Density estimation
+#### Assignment 1: Basic Python, Hypothesis tests
 
-- [Assignment 1]()
+- [Assignment 1](https://github.com/polospeter/KU-Data-Science-Course/blob/main/Assignment-1/Assignment1)
 
 #### Assignment 2:
 
